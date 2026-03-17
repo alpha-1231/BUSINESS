@@ -1,0 +1,61 @@
+{
+  "id": "biz-U2AXIB",
+  "created_at": "2026-03-17T03:36:00.040413Z",
+  "updated_at": "2026-03-17T03:37:56.002509Z",
+  "owner": {
+    "name": "test1",
+    "email": "vishwashbhusal749@gmail.com",
+    "phone": "9847551847"
+  },
+  "name": "test 1",
+  "tagline": "bhutan",
+  "description": "",
+  "website": "",
+  "category": {
+    "primary": "food",
+    "sub": "restaurants",
+    "topics": []
+  },
+  "services": [],
+  "address": {
+    "country": "Nepal",
+    "province": "Lumbini Province",
+    "province_id": 5,
+    "district": "Kapilvastu",
+    "district_id": 55,
+    "municipality": "Banganga",
+    "municipality_id": 5107,
+    "municipality_type": "Municipality",
+    "ward": "9",
+    "area": "bhalwad",
+    "street": "bhartapur",
+    "postalCode": ""
+  },
+  "contact": {
+    "phones": [
+      "980755940"
+    ],
+    "emails": [
+      "niokapple@gmail.com"
+    ],
+    "whatsapp": null
+  },
+  "social": {
+    "facebook": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "tiktok": null
+  },
+  "branding": {
+    "logo": "",
+    "coverImage": ""
+  },
+  "verification": {
+    "status": "pending"
+  },
+  "subscription": {
+    "plan": "free"
+  },
+  "status": "active"
+}
