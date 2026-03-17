@@ -1,0 +1,391 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2025-01-01T00:00:00Z",
+  "districts": {
+    "Taplejung": {
+      "id": 1,
+      "province": "Province 1",
+      "businesses_url": "https://download947.mediafire.com/cty1xfb1d9hgiatE6F1SdJ0_vTyQLQsD52dt4IfsW-uwVtJopoEwktddRE5A-ZFXnadxQ-1FP3FuJKp2-qucA3jRt3QISSEMiMOcGf466EWUt4rGI2Oky38brCMrjkeiitSWRW5pBUuIZWbJrPDvfaSmlFHqdkT6BQQep07d8r9h-g/gusson1yqxwvh2o/Kapilvastu.json"
+    },
+    "Panchthar": {
+      "id": 2,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Ilam": {
+      "id": 3,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Jhapa": {
+      "id": 4,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Morang": {
+      "id": 5,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Sunsari": {
+      "id": 6,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Dhankuta": {
+      "id": 7,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Terhathum": {
+      "id": 8,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Sankhuwasabha": {
+      "id": 9,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Bhojpur": {
+      "id": 10,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Khotang": {
+      "id": 11,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Okhaldhunga": {
+      "id": 12,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Solukhumbu": {
+      "id": 13,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Udayapur": {
+      "id": 14,
+      "province": "Province 1",
+      "businesses_url": ""
+    },
+    "Saptari": {
+      "id": 15,
+      "province": "Province 2",
+      "businesses_url": ""
+    },
+    "Siraha": {
+      "id": 16,
+      "province": "Province 2",
+      "businesses_url": ""
+    },
+    "Dhanusa": {
+      "id": 17,
+      "province": "Province 2",
+      "businesses_url": ""
+    },
+    "Mahottari": {
+      "id": 18,
+      "province": "Province 2",
+      "businesses_url": ""
+    },
+    "Sarlahi": {
+      "id": 19,
+      "province": "Province 2",
+      "businesses_url": ""
+    },
+    "Sindhuli": {
+      "id": 20,
+      "province": "Province 2",
+      "businesses_url": ""
+    },
+    "Rautahat": {
+      "id": 21,
+      "province": "Province 2",
+      "businesses_url": ""
+    },
+    "Bara": {
+      "id": 22,
+      "province": "Province 2",
+      "businesses_url": ""
+    },
+    "Parsa": {
+      "id": 23,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Chitwan": {
+      "id": 24,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Makwanpur": {
+      "id": 25,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Kavre Palanchok": {
+      "id": 26,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Sindhupalchok": {
+      "id": 27,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Kathmandu": {
+      "id": 28,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Bhaktapur": {
+      "id": 29,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Lalitpur": {
+      "id": 30,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Nuwakot": {
+      "id": 31,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Rasuwa": {
+      "id": 32,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Dolakha": {
+      "id": 33,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Ramechhap": {
+      "id": 34,
+      "province": "Bagmati",
+      "businesses_url": ""
+    },
+    "Gorkha": {
+      "id": 35,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Lamjung": {
+      "id": 36,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Tanahu": {
+      "id": 37,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Syangja": {
+      "id": 38,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Kaski": {
+      "id": 39,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Myagdi": {
+      "id": 40,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Baglung": {
+      "id": 41,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Parbat": {
+      "id": 42,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Manang": {
+      "id": 43,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Mustang": {
+      "id": 44,
+      "province": "Gandaki",
+      "businesses_url": ""
+    },
+    "Palpa": {
+      "id": 45,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Nawalpur": {
+      "id": 46,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Rupandehi": {
+      "id": 47,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Arghakhanchi": {
+      "id": 48,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Kapilvastu": {
+      "id": 49,
+      "province": "Lumbini",
+      "businesses_url": "https://download947.mediafire.com/cty1xfb1d9hgiatE6F1SdJ0_vTyQLQsD52dt4IfsW-uwVtJopoEwktddRE5A-ZFXnadxQ-1FP3FuJKp2-qucA3jRt3QISSEMiMOcGf466EWUt4rGI2Oky38brCMrjkeiitSWRW5pBUuIZWbJrPDvfaSmlFHqdkT6BQQep07d8r9h-g/gusson1yqxwvh2o/Kapilvastu.json"
+    },
+    "Parasi": {
+      "id": 50,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Gulmi": {
+      "id": 51,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Dang": {
+      "id": 52,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Pyuthan": {
+      "id": 53,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Rolpa": {
+      "id": 54,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Salyan": {
+      "id": 55,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Eastern Rukum": {
+      "id": 56,
+      "province": "Lumbini",
+      "businesses_url": ""
+    },
+    "Dailekh": {
+      "id": 57,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Jajarkot": {
+      "id": 58,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Surkhet": {
+      "id": 59,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Bardiya": {
+      "id": 60,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Banke": {
+      "id": 61,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Jumla": {
+      "id": 62,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Kalikot": {
+      "id": 63,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Dolpa": {
+      "id": 64,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Mugu": {
+      "id": 65,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Humla": {
+      "id": 66,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Western Rukum": {
+      "id": 67,
+      "province": "Karnali",
+      "businesses_url": ""
+    },
+    "Kailali": {
+      "id": 68,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Kanchanpur": {
+      "id": 69,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Dadeldhura": {
+      "id": 70,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Baitadi": {
+      "id": 71,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Doti": {
+      "id": 72,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Achham": {
+      "id": 73,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Bajhang": {
+      "id": 74,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Bajura": {
+      "id": 75,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Darchula": {
+      "id": 76,
+      "province": "Sudurpashchim",
+      "businesses_url": ""
+    },
+    "Nawalparasi": {
+      "id": 77,
+      "province": "Gandaki",
+      "businesses_url": ""
+    }
+  }
+}
