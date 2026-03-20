@@ -9,14 +9,14 @@
   },
   "name": "test 1",
   "tagline": "bhutan",
-  "description": "",
+  "description": "9847551847",
   "website": "",
   "category": {
     "primary": "food",
     "sub": "restaurants",
-    "topics": []
+    "topics": ["9847551847","9847551847","9847551847"]
   },
-  "services": [],
+  "services": ["9847551847","9847551847"],
   "address": {
     "country": "Nepal",
     "province": "Lumbini Province",
@@ -38,14 +38,14 @@
     "emails": [
       "niokapple@gmail.com"
     ],
-    "whatsapp": null
+    "whatsapp": ["9847551847"]
   },
   "social": {
-    "facebook": null,
-    "instagram": null,
-    "linkedin": null,
-    "youtube": null,
-    "tiktok": null
+    "facebook": "9847551847",
+    "instagram": "9847551847",
+    "linkedin": "9847551847",
+    "youtube": "9847551847",
+    "tiktok": "9847551847"
   },
   "branding": {
     "logo": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/63888629-f0ea-40a8-b688-a9ac278a78cb.jpg",
