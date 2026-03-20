@@ -100,7 +100,7 @@
     "Bhojpur": {
       "id": 20,
       "province": "Koshi",
-      "businesses_url": "https://raw.githubusercontent.com/alpha-1231/BUSINESS/main/Kapilvastu.json"
+      "businesses_url":"https://raw.githubusercontent.com/alpha-1231/BUSINESS/main/Kapilvastu.json"
     },
     "Dhankuta": {
       "id": 21,
