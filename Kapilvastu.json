@@ -33,6 +33,36 @@
       "detail_url": "districts/55_Kapilvastu/Businesses/biz-U2AXIB.json",
       "created_at": "2026-03-17T03:36:00.040413Z",
       "updated_at": "2026-03-17T03:37:56.002509Z"
+    },   {
+      "id": "biz-U2AXIB",
+      "name": "test 2",
+      "tagline": "bhutan",
+      "category": {
+        "primary": "food",
+        "sub": "restaurants"
+      },
+      "address": {
+        "municipality": "Kapilvastu",
+        "district": "Kapilvastu",
+        "district_id": 55,
+        "ward": "9"
+      },
+      "contact": {
+        "phone": "980755940"
+      },
+      "branding": {
+        "logo": ""
+      },
+      "verification": {
+        "status": "pending"
+      },
+      "subscription": {
+        "plan": "free"
+      },
+      "status": "active",
+      "detail_url": "districts/55_Kapilvastu/Businesses/biz-U2AXIB.json",
+      "created_at": "2026-03-17T03:36:00.040413Z",
+      "updated_at": "2026-03-17T03:37:56.002509Z"
     }
   ],
   "last_modified": "2026-03-17T09:22:56.560371"
